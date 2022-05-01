@@ -559,7 +559,7 @@
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
-				<data>cnUtUlU6MjUy</data>
+				<string>zh-hans:252</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 			</dict>
